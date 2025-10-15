@@ -24,7 +24,7 @@ Apaixonado por inovação, aprendizado contínuo e desenvolvimento de soluções
 
 <div align="center">
 
-  **Linguagens e ferramentas que estou aprendendo**
+  **Linguagens e Ferramentas Que Estou Aprendendo**
 
 </div>
 
