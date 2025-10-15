@@ -10,9 +10,9 @@ Apaixonado por inovação, aprendizado contínuo e desenvolvimento de soluções
 <br>
 
 <div align="center">
-  <img height=200 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=robson-stica&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=robson-stica&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <img width="417" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-stica&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"/>
+  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-stica&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"/>
   
   <br>
   
